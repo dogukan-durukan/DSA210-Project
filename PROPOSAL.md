@@ -1,8 +1,7 @@
 # Project Proposal: Impact of Market Share on Flight Operational Performance
 
 ## 1. Motivation
-In the aviation industry, operational efficiency is a primary determinant of passenger satisfaction and airline reputation. This project aims to investigate the relationship between market dynamics—specifically an airline's market share on a given route—and its operational reliability, such as flight delays. The core objective is to analyze whether dominant airlines on specific routes maintain better punctuality or if a lack of competition correlates with increased operational delays.
-In the avation indusrty
+In the aviation industry, operational efficiency is a primary determinant of passenger satisfaction and airline reputation. This project aims to investigate the relationship between market dynamics (specifically an airline's market share on a given route) and its operational reliability, such as flight delays. The core objective is to analyze whether dominant airlines on specific routes maintain better punctuality or a non-competition environment correlates with increased operational delays.
 
 ## 2. Data Source and Collection
 The study will utilize two publicly available datasets sourced from Kaggle:
@@ -19,3 +18,5 @@ The project will follow the standard data science pipeline:
 * **Data Preparation:** Cleaning missing values and merging datasets via Python.
 * **Exploratory Data Analysis:** Visualizing delay distributions across different airlines and routes using Matplotlib and Seaborn.
 * **Hypothesis Testing:** Performing statistical tests to determine if there is a significant difference in delay averages between "dominant" and "competitive" routes.
+
+(In checking on dataset for being qualified to this project Claude and Gemini has been used.)
